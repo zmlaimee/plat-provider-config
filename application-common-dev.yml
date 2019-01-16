@@ -1,11 +1,11 @@
 server:
   port: 8010
-max-http-header-size: 1048576  #设置缓存空间大小
+max-http-header-size: 1048576  #璁剧疆鍐呭瓨澶у皬
   tomcat: 
     max-http-post-size: 1048576
 spring:
   application:
-    name: lovebuy-common-dev
+    name: lovebuy-common
 eureka:
   client:
     service-url:
