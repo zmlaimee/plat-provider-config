@@ -1,6 +1,6 @@
 server:
   port: 8010
-max-http-header-size: 1048576  #设置内存大小
+  max-http-header-size: 1048576  #设置内存大小
   tomcat: 
     max-http-post-size: 1048576
 spring:
